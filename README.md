@@ -1,2 +1,2 @@
 # Auto-Ribbon-Generator
-for out company
+for our company
